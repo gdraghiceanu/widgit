@@ -1,3 +1,4 @@
 some geo configs that were checked in after init
 need to pull this file down
 george
+add additional configurations
